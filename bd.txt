@@ -1,0 +1,3 @@
+anon public: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNrbm5pY2JtdGJ0bHBua3ZrbGJ1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NzIxMTMyNDMsImV4cCI6MjA4NzY4OTI0M30.AeQQ8AlHVO8Qujv-3jzFmyAHrxZspoC8hL5qMMPOv-E
+
+url: https://sknnicbmtbtlpnkvklbu.supabase.co
