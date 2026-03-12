@@ -1,1 +1,15 @@
 @import url('https://fonts.googleapis.com/css2?family=Bitcount+Prop+Double:wght@100..900&display=swap');
+
+:root {
+    --cor-primaria-1:#ff007f;
+    --cor-primaria-2:#902d41;
+    --cor-primaria-3:#31afd4;
+    --cor-primaria-4:#004fff;   
+    --cor-primaria-5:#050505;
+    --cor-bg:#ffeedb;
+    --cor-branco:#fff;
+    --cor-sombra: rgba(0,0,0, 0.15);
+    --cor-texto: #333;
+
+
+}
