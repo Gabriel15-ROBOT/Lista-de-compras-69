@@ -15,4 +15,17 @@
 
     --raio:12px;
     --transition: 0.3s ease;
+
+}
+
+* {
+    margin:0;
+    pad: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: var(--fonte);
+    background: background: #ffe921;
+background: radial-gradient(circle, rgba(255, 233, 33, 1) 0%, rgba(255, 0, 127, 1) 100%);;
 }
