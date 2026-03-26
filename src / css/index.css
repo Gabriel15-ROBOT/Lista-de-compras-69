@@ -99,7 +99,7 @@ padding: 20px;
 button[onclick="logout()"] {
     align-self: flex-end;
     margin-bottom: 1.5rem;
-    background-color: var(--cor-primaria-1);
+    background-color: var(--cor-primaria-3);
     color: var(--cor-branco);
     border: none;
     border-radius: var(--raio);
@@ -109,7 +109,7 @@ button[onclick="logout()"] {
 }
 
 button[onclick="logout()"]:hover {
-    background-color: var(--cor-primaria-3);
+    background-color: var(--cor-primaria-4);
 }
 
 #lista {
