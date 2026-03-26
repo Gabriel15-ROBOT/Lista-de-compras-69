@@ -131,7 +131,7 @@ button[onclick="logout()"]:hover {
 }
 
 #lista button {
-    background-color: var(--cor-primaria-1);
+    background-color: var(--cor-primaria-3);
     color: var(--cor-branco);
     border: none;
     border-radius: var(--raio);
