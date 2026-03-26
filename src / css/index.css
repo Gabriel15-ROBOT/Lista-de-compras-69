@@ -95,3 +95,15 @@ padding: 20px;
     margin-botoom:1.5rem;
     font-weight: 500; 
 }
+
+button[onclick="logout()"] {
+    align-self: flex-end;
+    margin-bottom: 1.5rem;
+    background-color: var(--cor-primaria-1);
+    color: var(--cor-branco)
+    border: none;
+    border-radius: var(--raio);
+    cursor: pointer;
+    font-weight: 500;
+    transition: var(--transition)
+}
