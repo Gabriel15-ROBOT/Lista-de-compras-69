@@ -105,7 +105,7 @@ button[onclick="logout()"] {
     border-radius: var(--raio);
     cursor: pointer;
     font-weight: 500;
-    transition: var(--transition)
+    transition: var(--transition);
 }
 
 button[onclick="logout()"]:hover {
