@@ -92,7 +92,7 @@ padding: 20px;
 .titulo {
     font-size: clamp(1.5rem, 2vw + 1rem, 2rem);
     color: var(--cor-texto);
-    margin-botoom:1.5rem;
+    margin-botoom: 1.5rem;
     font-weight: 500; 
 }
 
